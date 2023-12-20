@@ -1,3 +1,6 @@
 # MEDIC_AI
 
-[![Checkout my Demo vid](Thumbnail.png)](link-to-your-video)
+<a href="link-to-your-video">
+  <img src="Thumbnail.png" alt="Checkout my Demo vid" width="600">
+</a>
+
