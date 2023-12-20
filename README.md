@@ -1,6 +1,8 @@
 # MEDIC_AI
 
+#checkout the demo video for my website!
+
 <a href="link-to-your-video">
-  <img src="Thumbnail.png" alt="Checkout my Demo vid" width="600">
+  <img src="Thumbnail.png" width="600">
 </a>
 
